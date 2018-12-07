@@ -1,0 +1,5 @@
+1. configure glut in code blocks
+2. go to folder working-texture
+3. double click texture.cbp to open the project
+4. change the path of images insise loadBMP to the path of your computer where the working-texture folder is.
+5. click run
